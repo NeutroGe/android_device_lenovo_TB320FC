@@ -23,6 +23,9 @@ OF_USE_GREEN_LED := 0
 OF_FLASHLIGHT_ENABLE := 1
 OF_ALLOW_DISABLE_NAVBAR := 0
 
+OF_AB_DEVICE_WITH_RECOVERY_PARTITION := 1
+
+FOX_VIRTUAL_AB_DEVICE := 1
 
 # Maximum permissible splash image size (in kilobytes); do *NOT* increase
 OF_SPLASH_MAX_SIZE := 130
