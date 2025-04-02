@@ -23,4 +23,12 @@ BUILD_FINGERPRINT := Lenovo/TB320FC/TB320FC:13/SKQ1.221119.001/ZUI_16.0.324_2407
 #PRODUCT_OTA_ENFORCE_VINTF_KERNEL_REQUIREMENTS := false
 
 # Inherit from TB320FC device
-$(call inherit-product, device/lenovo/TB320FC/device.mk)
+$(call inherit-product-if-exists, $(DEVICE_PATH)/fox_$(PRODUCT_RELEASE_NAME).mk)
+
+#fox
+
+#Define hardware platform
+PRODUCT_RELEASE_NAME := TB320FC
+
+##Device path for OEM device tree
+DEVICE_PATH := device/lenovo/TB320FC
