@@ -17,7 +17,7 @@
 #
 # 	Please maintain this if you use this script or any part of it
 #
-FDEVICE="taro"
+FDEVICE="TB320FC"
 #set -o xtrace
 
 fox_get_target_device() {
