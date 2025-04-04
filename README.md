@@ -3,6 +3,10 @@
 OrangeFox Recovery Project (OFRP) for Lenovo Y700 2023/Gen2
 ======================================
 
+# Download and install
+
+https://github.com/NeutroGe/android_device_lenovo_TB320FC/releases/tag/v0.9
+
 # How to build
 Check OFRP official guide https://wiki.orangefox.tech/en/dev/building
 
