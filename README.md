@@ -21,11 +21,15 @@ https://wiki.orangefox.tech/en/guides
 # Tested features
 
 Backup & restore: OK
+
 External USB storage device: OK
+
 External SD card storage: OK
+
 Flashing system image: OK
 
 Aroma File manager: doesn't work - obsolete feature, not maintained anymore. Will probably never work.
+
 Accessing display settings: doesn't work - shows accessing "dummy.xml" then crashes to main page.
 
 ## Credits & feedback
