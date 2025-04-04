@@ -14,6 +14,10 @@ Builder with building workflow: https://github.com/NeutroGe/OrangeFox-Recovery-B
 
 Youtube guide on how to build OrangeFox on other devices: https://www.youtube.com/watch?v=tvCAhtt-zZk
 
+# FAQ
+
+https://wiki.orangefox.tech/en/guides
+
 ## Credits & feedback
 
 The OrangeFox team - https://wiki.orangefox.tech/en/home
