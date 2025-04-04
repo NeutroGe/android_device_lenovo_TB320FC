@@ -28,7 +28,7 @@ External SD card storage: OK
 
 Flashing system image: OK
 
-Aroma File manager: doesn't work - obsolete feature, not maintained anymore. Will probably never work.
+Aroma File manager: doesn't work - obsolete feature, not maintained anymore. Will probably never work. I'll remove it for the next update.
 
 Accessing display settings: doesn't work - shows accessing "dummy.xml" then crashes to main page.
 
