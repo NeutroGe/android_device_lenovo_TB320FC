@@ -34,7 +34,7 @@ Accessing display settings: doesn't work - log shows accessing a "dummy.xml" pag
 
 ## Credits & feedback
 
-The OrangeFox team - https://wiki.orangefox.tech/en/home
+The OrangeFox team - https://wiki.orangefox.tech/en/home - [Donate to OrangeFox](https://opencollective.com/orangefox/donate?interval=oneTime&amount=20&contributeAs=me)
 
 Built from this TWRP tree from user "lddnsk" https://github.com/lddnsk/android_device_lenovo_TB320FC 
 
