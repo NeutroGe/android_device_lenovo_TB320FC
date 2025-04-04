@@ -30,7 +30,7 @@ Flashing system image: OK
 
 Aroma File manager: doesn't work - not maintained anymore. Will probably never work. Marked for removal for next build.
 
-Accessing display settings: doesn't work - log shows accessing a "dummy.xml" page then crashes to main page.
+Accessing display settings: doesn't work - log shows accessing a "dummy.xml" page then crashes back to main page.
 
 ## Credits & feedback
 
