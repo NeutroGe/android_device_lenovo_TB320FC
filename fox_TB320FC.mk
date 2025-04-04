@@ -43,3 +43,7 @@ OF_STATUS_INDENT_RIGHT := 48
 OF_HIDE_NOTCH := 1
 OF_CLOCK_POS := 1
 OF_OPTIONS_LIST_NUM := 6
+
+# aroma doesnt work - not maintained anymore so we remove it
+
+FOX_DELETE_AROMAFM := 1
