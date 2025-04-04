@@ -3,8 +3,6 @@
 OrangeFox Recovery Project (OFRP) for Lenovo Y700 2023/Gen2
 ======================================
 
-The Y700 2023/Gen2 (codenamed "taro") is an upper-mid-range gaming tablet from Lenovo. It was announced and released in July 2023.
-
 # How to build
 Check OFRP official guide https://wiki.orangefox.tech/en/dev/building
 
@@ -13,6 +11,10 @@ Builder with building workflow: https://github.com/NeutroGe/OrangeFox-Recovery-B
 Youtube guide on how to build OrangeFox on other devices: https://www.youtube.com/watch?v=tvCAhtt-zZk
 
 ## Device specifications
+
+The Y700 2023/Gen2 (codenamed "taro") is an upper-mid-range gaming tablet from Lenovo. 
+
+It was announced and released in July 2023.
 
 | Feature     | Specification
 | :-----------|:-------------
