@@ -20,7 +20,7 @@ Built from this TWRP tree from user "lddnsk" https://github.com/lddnsk/android_d
 
 Original TWRP tree from user "polygraphene" https://github.com/polygraphene/android_device_lenovo_TB320FC
 
-Feedback: https://xdaforums.com/t/y700-2023-gen_2-regional-rom-flashing-guide.4685115/ - https://t.me/Legion_Y700
+Feedback: https://xdaforums.com/t/gen-2-beta-orangefox-recovery-12-1.4728799/#post-90034207 - https://t.me/Legion_Y700
 
 ## Device specifications
 
