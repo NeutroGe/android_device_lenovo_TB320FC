@@ -53,7 +53,7 @@ It was announced and released in July 2023.
 | Chipset     | Qualcomm SM8475P Snapdragon 8+ Gen 1 (4 nm)
 | CPU         | Octa-core (1x3.19 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510))
 | GPU         | Adreno 730
-| Memory      | 16 GB
+| Memory      | 12/16 GB
 | Storage     | 256/512 GB UFS
 | Battery     | 6550 mAh Li-Po (non-removable), 45W wired
 | Shipped OS  | Android 13 (ZUI 14)
