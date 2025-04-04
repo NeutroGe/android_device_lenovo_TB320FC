@@ -12,7 +12,7 @@ Check OFRP official guide https://wiki.orangefox.tech/en/dev/building
 
 Builder with building workflow: https://github.com/NeutroGe/OrangeFox-Recovery-Builder-2024
 
-Youtube guide on how to build OrangeFox on other devices: https://www.youtube.com/watch?v=tvCAhtt-zZk
+Youtube guide on how to build OrangeFox: https://www.youtube.com/watch?v=tvCAhtt-zZk
 
 # FAQ
 
