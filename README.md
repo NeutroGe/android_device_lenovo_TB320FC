@@ -16,6 +16,8 @@ Youtube guide on how to build OrangeFox on other devices: https://www.youtube.co
 
 ## Credits & feedback
 
+The OrangeFox team - https://wiki.orangefox.tech/en/home
+
 Built from this TWRP tree from user "lddnsk" https://github.com/lddnsk/android_device_lenovo_TB320FC 
 
 Original TWRP tree from user "polygraphene" https://github.com/polygraphene/android_device_lenovo_TB320FC
