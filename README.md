@@ -27,5 +27,5 @@ The Y700 2023/Gen2 (codenamed "taro") is an upper-mid-range gaming tablet from L
 
 ## Device picture
 
-![Y700 2023]([https://i02.appmifile.com/173_operator_sg/20/04/2023/27b9038f6166371bea81e9b5aad9a66a.png](https://fdn2.gsmarena.com/vv/pics/lenovo/lenovo-legion-y700-2023-1.jpg))
+![Y700 2023](https://fdn2.gsmarena.com/vv/pics/lenovo/lenovo-legion-y700-2023-1.jpg)
 
