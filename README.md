@@ -16,7 +16,7 @@ Built from this TWRP tree from user "lddnsk" https://github.com/lddnsk/android_d
 
 Original TWRP tree from user "polygraphene" https://github.com/polygraphene/android_device_lenovo_TB320FC
 
-Contact: Neutro @ XDA - https://xdaforums.com/m/n3utro.7955488/ - https://t.me/Legion_Y700
+Contact: https://xdaforums.com/m/n3utro.7955488/ - https://t.me/Legion_Y700
 
 ## Device specifications
 
