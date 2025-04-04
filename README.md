@@ -10,6 +10,14 @@ Builder with building workflow: https://github.com/NeutroGe/OrangeFox-Recovery-B
 
 Youtube guide on how to build OrangeFox on other devices: https://www.youtube.com/watch?v=tvCAhtt-zZk
 
+## Credits & contact
+
+Built from this TWRP tree from user "lddnsk" https://github.com/lddnsk/android_device_lenovo_TB320FC 
+
+Original TWRP tree from user "polygraphene" https://github.com/polygraphene/android_device_lenovo_TB320FC
+
+Contact: Neutro @ XDA - https://xdaforums.com/m/n3utro.7955488/ - https://t.me/Legion_Y700
+
 ## Device specifications
 
 The Y700 2023/Gen2 (codenamed "taro") is an upper-mid-range gaming tablet from Lenovo. 
@@ -34,12 +42,3 @@ It was announced and released in July 2023.
 ## Device picture
 
 ![Y700 2023](https://fdn2.gsmarena.com/vv/pics/lenovo/lenovo-legion-y700-2023-1.jpg)
-
-
-## Credits & contact
-
-Built from this TWRP tree from user "lddnsk" https://github.com/lddnsk/android_device_lenovo_TB320FC 
-
-Original TWRP tree from user "polygraphene" https://github.com/polygraphene/android_device_lenovo_TB320FC
-
-Contact: Neutro @ XDA - https://xdaforums.com/m/n3utro.7955488/ - https://t.me/Legion_Y700
