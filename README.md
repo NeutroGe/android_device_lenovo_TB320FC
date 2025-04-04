@@ -14,13 +14,13 @@ Builder with building workflow: https://github.com/NeutroGe/OrangeFox-Recovery-B
 
 Youtube guide on how to build OrangeFox on other devices: https://www.youtube.com/watch?v=tvCAhtt-zZk
 
-## Credits & contact
+## Credits & feedback
 
 Built from this TWRP tree from user "lddnsk" https://github.com/lddnsk/android_device_lenovo_TB320FC 
 
 Original TWRP tree from user "polygraphene" https://github.com/polygraphene/android_device_lenovo_TB320FC
 
-Contact: https://xdaforums.com/m/n3utro.7955488/ - https://t.me/Legion_Y700
+Feedback: https://xdaforums.com/t/y700-2023-gen_2-regional-rom-flashing-guide.4685115/ - https://t.me/Legion_Y700
 
 ## Device specifications
 
