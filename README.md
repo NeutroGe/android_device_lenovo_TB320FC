@@ -24,7 +24,7 @@ Contact: https://xdaforums.com/m/n3utro.7955488/ - https://t.me/Legion_Y700
 
 ## Device specifications
 
-The Y700 2023/Gen2 (codenamed "taro") is an upper midrange gaming tablet from Lenovo. 
+The Lenovo Y700 2023/Gen2 (codenamed "taro") is an upper midrange gaming tablet from Lenovo. 
 
 It was announced and released in July 2023.
 
